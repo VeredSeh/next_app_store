@@ -3,9 +3,7 @@ import PasswordComponent from "./components/PasswordComponent";
 import LoginButton from "./components/LoginButtonComponent";
 import styles from "../styles/login.module.css";
 import Image from 'next/image';
-import { useState } from "react/cjs/react.development";
-
-
+import { useState } from 'react';
 
 export default function Login () {
 
